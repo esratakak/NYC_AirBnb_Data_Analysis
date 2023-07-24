@@ -1,5 +1,5 @@
 
-Aygaz Sponsorluğunda Global AI Hub Veri Analizi Bootcampi Bitirme Projesi
+Aygaz Sponsorluğunda Global AI Hub Veri Analizi Bootcamp Bitirme Projesi
 
 Bu proje, Aygaz sponsorluğunda Global AI Hub tarafından düzenlenen Veri Analizi Bootcamp'inin bitirme çalışmasıdır. 
 Proje ile gerçek veri seti üzerinden veri analizi becerilerimi geliştirmiş oldum.
