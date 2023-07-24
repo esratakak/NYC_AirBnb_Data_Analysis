@@ -9,5 +9,5 @@ Proje ile gerçek veri seti üzerinden veri analizi becerilerimi geliştirmiş o
 
 Proje hakkında daha fazla bilgi almak veya projemizi incelemek için aşağıdaki iletişim bilgilerinden bize ulaşabilirsiniz:
 - E-posta: esratakak@gmail.com
-- GitHub: esratakak
+- GitHub: [esratakak](https://github.com/esratakak)
 - LinkedIn: https://www.linkedin.com/in/esratakak/
